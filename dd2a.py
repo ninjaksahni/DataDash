@@ -40,7 +40,7 @@ def handle_outliers(df, cols, method):
     return df
 
 # Streamlit App
-st.title("Auto Dashboard Generator")
+st.title("dataDASH KSV2📊")
 st.write("Upload a CSV or Excel file to generate a dashboard.")
 
 # File uploader
